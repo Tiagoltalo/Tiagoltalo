@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header"/>
 
 # Olá, eu sou o Tiago 👋
 
@@ -90,4 +90,4 @@ Desenvolvedor em formação com foco em **Java**, **Python** e **Programação O
 - Princípios SOLID aplicados a sistemas reais
 - Segurança e gerenciamento de sistemas Linux
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer"/>
