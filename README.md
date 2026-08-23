@@ -1,6 +1,6 @@
 ### Olá, meu nome é Tiago Italo 👋
 - Técnico em Informática 🤖
-- Estudando Python e JavaScript 🧠
+- Estudando Python e Java 🧠
 - Fortaleza - CE 🌍
 <!--
 **Tiagoltalo/Tiagoltalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
