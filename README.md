@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header"/>
+
 # Olá, eu sou o Tiago 👋
 
 Desenvolvedor em formação com foco em **Java**, **Python** e **Programação Orientada a Objetos**, estudando princípios sólidos de design de software (SOLID). Também tenho interesse por sistemas Linux.
@@ -87,3 +89,5 @@ Desenvolvedor em formação com foco em **Java**, **Python** e **Programação O
 - Paradigma de Programção Orientada a Objetos
 - Princípios SOLID aplicados a sistemas reais
 - Segurança e gerenciamento de sistemas Linux
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
