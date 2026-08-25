@@ -35,7 +35,7 @@ Desenvolvedor em formação com foco em **Java**, **Python** e **Programação O
     width="50px"
     style="margin-right: 15px;
         border-radius: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://raw.githubusercontent.com/mariabarkouzou/Create-An-Awesome-README.md-File/193a1f9511e334b4f38b205a11e757e885db595b/SVG%20Icons/Programming%20Languages%20SVG%20Icons/c-programming.svg"
 />      
 
 
@@ -63,8 +63,8 @@ Desenvolvedor em formação com foco em **Java**, **Python** e **Programação O
 
 <img
     align="left"
-    alt="GIT"
-    title="GIT"
+    alt="LINUX"
+    title="LINUX"
     width="50px"
     style="margin-right: 15px;
         border-radius: 10px"
